@@ -68,10 +68,3 @@ reset.addEventListener('click', () => {
 
 
 
-let test = 1 + 2;
-console.log(test);
-
-let numara1 = 3;
-let numara2 = 4;
-let total = numara1 + numara2;
-console.log(total); 
